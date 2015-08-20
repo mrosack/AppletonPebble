@@ -1,0 +1,13 @@
+{
+  "title": "Is It Recycling Week?",
+  "fields": {
+    "address": {
+      "type": "text",
+      "title": "Enter your address (no zip code)"
+    },
+    "zipcode": {
+      "type": "number",
+      "title": "Enter your zip code (5 digits only)"
+    }
+  }
+}
